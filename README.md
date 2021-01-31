@@ -7,4 +7,4 @@ Double pendulum simulation
 python DoublePendulum.py
 ````
 
-![Fourier](https://github.com/damuopel/Fourier/blob/master/Test.gif)
+![Test](https://github.com/damuopel/DoublePendulum/blob/master/Test.gif)
